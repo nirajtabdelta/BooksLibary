@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Niraj\\Project\\TechnicalTest\\BookLibraryAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B4DEBC2-FAA2-4901-BE5B-083E12CBEEC6}|BookLibraryAPI\\BookLibraryAPI.csproj|d:\\niraj\\project\\technicaltest\\booklibraryapi\\booklibraryapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B4DEBC2-FAA2-4901-BE5B-083E12CBEEC6}|BookLibraryAPI\\BookLibraryAPI.csproj|solutionrelative:booklibraryapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B4DEBC2-FAA2-4901-BE5B-083E12CBEEC6}|BookLibraryAPI\\BookLibraryAPI.csproj|d:\\niraj\\project\\technicaltest\\booklibraryapi\\booklibraryapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B4DEBC2-FAA2-4901-BE5B-083E12CBEEC6}|BookLibraryAPI\\BookLibraryAPI.csproj|solutionrelative:booklibraryapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B4DEBC2-FAA2-4901-BE5B-083E12CBEEC6}|BookLibraryAPI\\BookLibraryAPI.csproj|d:\\niraj\\project\\technicaltest\\booklibraryapi\\booklibraryapi\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B4DEBC2-FAA2-4901-BE5B-083E12CBEEC6}|BookLibraryAPI\\BookLibraryAPI.csproj|solutionrelative:booklibraryapi\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "D:\\Niraj\\Project\\TechnicalTest\\BookLibraryAPI\\BookLibraryAPI\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "BookLibraryAPI\\Services\\BookService.cs",
+              "ToolTip": "D:\\Niraj\\Project\\TechnicalTest\\BookLibraryAPI\\BookLibraryAPI\\Services\\BookService.cs",
+              "RelativeToolTip": "BookLibraryAPI\\Services\\BookService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAIwD0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:09:21.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\Niraj\\Project\\TechnicalTest\\BookLibraryAPI\\BookLibraryAPI\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookLibraryAPI\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\Niraj\\Project\\TechnicalTest\\BookLibraryAPI\\BookLibraryAPI\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookLibraryAPI\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAgwIkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:09:21.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Niraj\\Project\\TechnicalTest\\BookLibraryAPI\\BookLibraryAPI\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookLibraryAPI\\Models\\Book.cs",
+              "ToolTip": "D:\\Niraj\\Project\\TechnicalTest\\BookLibraryAPI\\BookLibraryAPI\\Models\\Book.cs",
+              "RelativeToolTip": "BookLibraryAPI\\Models\\Book.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAywC0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:05:16.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
